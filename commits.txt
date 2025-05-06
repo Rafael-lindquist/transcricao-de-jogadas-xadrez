@@ -1,0 +1,3 @@
+Versões:
+
+    0.0.000 "Início do sistema de controle de versões"

@@ -1,0 +1,7 @@
+ipykernel
+label-studio
+matplotlib
+numpy
+opencv-python
+torch
+ultralytics
